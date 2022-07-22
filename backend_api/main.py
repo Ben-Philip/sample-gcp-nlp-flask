@@ -7,7 +7,7 @@ from google.cloud import language_v1 as language
 import os
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "key.json"
-
+#BPO
 """
 This Flask app shows some examples of the types of requests you could build.
 There is currently a GET request that will return all the data in GCP Datastore.
